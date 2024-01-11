@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently working on a new mobile application.<br>🌎 Looking to collaborate on: web projects or mobile application development<br>🌱 Currently learning with help from doc.github.com<br><br>📧 Ask me about about anything<br>
+📚 I'm currently working on a new mobile application.<br>🌎 Looking to collaborate on: web projects or mobile application development<br>🌱 Currently learning with help from doc.github.com<br>📧 Ask me about anything<br>
 
 
 ## 🌐 Socials:
